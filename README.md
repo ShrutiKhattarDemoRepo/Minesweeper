@@ -30,10 +30,10 @@ Enter the number of mines to place on the grid (maximum is 35% of the total squa
 
 Here is your minefield:
   1 2 3 4
-A _ _ _ _
-B _ _ _ _
-C _ _ _ _
-D _ _ _ _
+1 _ _ _ _
+2 _ _ _ _
+3 _ _ _ _
+4 _ _ _ _
 
 Select a square to reveal (e.g. A1): D4
 This square contains 0 adjacent mines. 
@@ -89,9 +89,9 @@ Enter the number of mines to place on the grid (maximum is 35% of the total squa
 
 Here is your minefield:
   1 2 3
-A _ _ _
-B _ _ _
-C _ _ _
+1 _ _ _
+2 _ _ _
+3 _ _ _
 
 Select a square to reveal (e.g. 1 1): 3 3
 Oh no, you detonated a mine! Game over.
